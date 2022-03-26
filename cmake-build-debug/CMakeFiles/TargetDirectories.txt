@@ -1,4 +1,0 @@
-/home/kong/work/my/mysylar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kong/work/my/mysylar/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kong/work/my/mysylar/cmake-build-debug/CMakeFiles/test.dir
-/home/kong/work/my/mysylar/cmake-build-debug/CMakeFiles/sylar.dir
